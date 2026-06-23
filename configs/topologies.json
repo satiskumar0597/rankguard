@@ -1,0 +1,17 @@
+{
+  "small": {
+    "hosts": 16,
+    "switches": 20,
+    "directed_links": 48
+  },
+  "medium": {
+    "hosts": 54,
+    "switches": 45,
+    "directed_links": 162
+  },
+  "large": {
+    "hosts": 128,
+    "switches": 80,
+    "directed_links": 384
+  }
+}

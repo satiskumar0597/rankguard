@@ -1,0 +1,18 @@
+{
+  "telemetry_interval_s": 1,
+  "control_interval_s": 2,
+  "history_windows": 60,
+  "candidate_paths_k": 4,
+  "persistence_h_windows": 2,
+  "minimum_improvement_epsilon": 0.03,
+  "utilization_threshold_tau": 0.8,
+  "conformal_alpha": 0.1,
+  "calibration_window_samples": 100,
+  "risk_score_weights": {
+    "w1_tail_fct": 0.35,
+    "w2_mlu": 0.25,
+    "w3_cvar": 0.2,
+    "w4_rule_churn": 0.15,
+    "w5_violations": 0.05
+  }
+}
