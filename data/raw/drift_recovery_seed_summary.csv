@@ -1,0 +1,21 @@
+seed,policy,peak_mlu,recovery_windows,p99_recovery_fct_ms
+1,Reactive threshold,0.879,13,1126.4
+2,Reactive threshold,0.905,16,1259.2
+3,Reactive threshold,0.93,19,1392.0
+4,Reactive threshold,0.955,22,1524.8
+5,Reactive threshold,0.981,25,1657.6
+1,HW-only forecasting,0.837,7,881.2
+2,HW-only forecasting,0.868,11,1009.6
+3,HW-only forecasting,0.9,15,1138.0
+4,HW-only forecasting,0.932,19,1266.4
+5,HW-only forecasting,0.963,23,1394.8
+1,Hybrid forecast-threshold TE,0.819,7,745.0
+2,Hybrid forecast-threshold TE,0.845,9,840.5
+3,Hybrid forecast-threshold TE,0.87,12,936.0
+4,Hybrid forecast-threshold TE,0.895,15,1031.5
+5,Hybrid forecast-threshold TE,0.921,17,1127.0
+1,RankGuard,0.777,4,581.1
+2,RankGuard,0.808,6,662.0
+3,RankGuard,0.84,8,743.0
+4,RankGuard,0.872,10,824.0
+5,RankGuard,0.903,12,904.9

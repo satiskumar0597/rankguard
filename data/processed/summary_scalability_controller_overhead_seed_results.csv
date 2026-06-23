@@ -1,0 +1,6 @@
+,,,median_decision_time_ms,median_decision_time_ms,p99_decision_time_ms,p99_decision_time_ms
+,,,mean,std,mean,std
+hosts,switches,directed_links,,,,
+16,20,48,18.0,3.0041637771599596,34.0,6.008327554319921
+54,45,162,42.0,6.0083275543199255,76.0,12.965338406690357
+128,80,384,87.0,12.016655108639851,152.0,27.03747399443964

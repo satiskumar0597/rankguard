@@ -1,0 +1,31 @@
+seed,policy,avg_fct_ms,p95_fct_ms,p99_fct_ms,mlu,congestion_probability_pct,route_changes
+1,ECMP,198.8,788.8,1315.0,0.901,15.74,0
+2,ECMP,208.9,827.4,1401.0,0.918,17.07,0
+3,ECMP,219.0,866.0,1487.0,0.936,18.4,0
+4,ECMP,229.1,904.6,1573.0,0.954,19.73,0
+5,ECMP,239.2,943.2,1659.0,0.971,21.06,0
+1,Reactive threshold,167.7,642.3,1086.9,0.838,10.88,48
+2,Reactive threshold,180.4,691.7,1187.4,0.862,12.59,55
+3,Reactive threshold,193.0,741.0,1288.0,0.887,14.3,63
+4,Reactive threshold,205.6,790.3,1388.6,0.912,16.01,71
+5,Reactive threshold,218.3,839.7,1489.1,0.936,17.72,78
+1,HW-only forecasting,144.9,555.0,945.8,0.8,8.86,57
+2,HW-only forecasting,159.5,610.0,1060.9,0.826,10.38,67
+3,HW-only forecasting,174.0,665.0,1176.0,0.852,11.9,76
+4,HW-only forecasting,188.5,720.0,1291.1,0.878,13.42,85
+5,HW-only forecasting,203.1,775.0,1406.2,0.904,14.94,95
+1,GRU-only forecasting,134.2,508.7,852.1,0.771,7.07,62
+2,GRU-only forecasting,145.6,552.4,945.0,0.794,8.34,73
+3,GRU-only forecasting,157.0,596.0,1038.0,0.817,9.6,84
+4,GRU-only forecasting,168.4,639.6,1131.0,0.84,10.86,95
+5,GRU-only forecasting,179.8,683.3,1223.9,0.863,12.13,106
+1,Hybrid forecast-threshold TE,124.0,420.9,708.9,0.737,5.25,55
+2,Hybrid forecast-threshold TE,133.5,457.0,785.5,0.758,6.32,65
+3,Hybrid forecast-threshold TE,143.0,493.0,862.0,0.779,7.4,75
+4,Hybrid forecast-threshold TE,152.5,529.0,938.5,0.8,8.48,85
+5,Hybrid forecast-threshold TE,162.0,565.1,1015.1,0.821,9.55,95
+1,RankGuard,105.8,345.0,588.0,0.69,3.13,42
+2,RankGuard,113.4,376.0,650.0,0.709,4.01,50
+3,RankGuard,121.0,407.0,712.0,0.728,4.9,58
+4,RankGuard,128.6,438.0,774.0,0.747,5.79,66
+5,RankGuard,136.2,469.0,836.0,0.766,6.67,74

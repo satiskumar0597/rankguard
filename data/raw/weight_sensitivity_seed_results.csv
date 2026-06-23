@@ -1,0 +1,21 @@
+seed,policy_weighting,p99_fct_ms,mlu,congestion_probability_pct,route_changes
+1,Latency-heavy,562.6,0.711,3.3,48
+2,Latency-heavy,623.3,0.732,4.25,59
+3,Latency-heavy,684.0,0.754,5.2,70
+4,Latency-heavy,744.7,0.776,6.15,81
+5,Latency-heavy,805.4,0.797,7.1,92
+1,Utilization-heavy,604.2,0.669,2.88,43
+2,Utilization-heavy,670.6,0.686,3.64,52
+3,Utilization-heavy,737.0,0.704,4.4,61
+4,Utilization-heavy,803.4,0.722,5.16,70
+5,Utilization-heavy,869.8,0.739,5.92,79
+1,Churn-heavy,610.7,0.694,3.35,24
+2,Churn-heavy,687.8,0.718,4.42,29
+3,Churn-heavy,765.0,0.741,5.5,35
+4,Churn-heavy,842.2,0.764,6.58,41
+5,Churn-heavy,919.3,0.788,7.65,46
+1,Balanced default,588.0,0.69,3.13,42
+2,Balanced default,650.0,0.709,4.01,50
+3,Balanced default,712.0,0.728,4.9,58
+4,Balanced default,774.0,0.747,5.79,66
+5,Balanced default,836.0,0.766,6.67,74

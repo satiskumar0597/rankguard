@@ -1,0 +1,126 @@
+seed,workload,policy,p99_fct_ms
+1,Periodic service,ECMP,568.6
+2,Periodic service,ECMP,605.3
+3,Periodic service,ECMP,642.0
+4,Periodic service,ECMP,678.7
+5,Periodic service,ECMP,715.4
+1,Periodic service,Reactive,526.9
+2,Periodic service,Reactive,572.5
+3,Periodic service,Reactive,618.0
+4,Periodic service,Reactive,663.5
+5,Periodic service,Reactive,709.1
+1,Periodic service,GRU-only,496.8
+2,Periodic service,GRU-only,535.4
+3,Periodic service,GRU-only,574.0
+4,Periodic service,GRU-only,612.6
+5,Periodic service,GRU-only,651.2
+1,Periodic service,Hybrid threshold,466.4
+2,Periodic service,Hybrid threshold,501.2
+3,Periodic service,Hybrid threshold,536.0
+4,Periodic service,Hybrid threshold,570.8
+5,Periodic service,Hybrid threshold,605.6
+1,Periodic service,RankGuard,435.2
+2,Periodic service,RankGuard,468.1
+3,Periodic service,RankGuard,501.0
+4,Periodic service,RankGuard,533.9
+5,Periodic service,RankGuard,566.8
+1,Elephant/mice mix,ECMP,1114.6
+2,Elephant/mice mix,ECMP,1206.3
+3,Elephant/mice mix,ECMP,1298.0
+4,Elephant/mice mix,ECMP,1389.7
+5,Elephant/mice mix,ECMP,1481.4
+1,Elephant/mice mix,Reactive,952.0
+2,Elephant/mice mix,Reactive,1035.5
+3,Elephant/mice mix,Reactive,1119.0
+4,Elephant/mice mix,Reactive,1202.5
+5,Elephant/mice mix,Reactive,1286.0
+1,Elephant/mice mix,GRU-only,763.7
+2,Elephant/mice mix,GRU-only,838.4
+3,Elephant/mice mix,GRU-only,913.0
+4,Elephant/mice mix,GRU-only,987.6
+5,Elephant/mice mix,GRU-only,1062.3
+1,Elephant/mice mix,Hybrid threshold,673.2
+2,Elephant/mice mix,Hybrid threshold,727.6
+3,Elephant/mice mix,Hybrid threshold,782.0
+4,Elephant/mice mix,Hybrid threshold,836.4
+5,Elephant/mice mix,Hybrid threshold,890.8
+1,Elephant/mice mix,RankGuard,561.6
+2,Elephant/mice mix,RankGuard,610.3
+3,Elephant/mice mix,RankGuard,659.0
+4,Elephant/mice mix,RankGuard,707.7
+5,Elephant/mice mix,RankGuard,756.4
+1,Incast bursts,ECMP,1585.5
+2,Incast bursts,ECMP,1734.7
+3,Incast bursts,ECMP,1884.0
+4,Incast bursts,ECMP,2033.3
+5,Incast bursts,ECMP,2182.5
+1,Incast bursts,Reactive,1345.3
+2,Incast bursts,Reactive,1480.7
+3,Incast bursts,Reactive,1616.0
+4,Incast bursts,Reactive,1751.3
+5,Incast bursts,Reactive,1886.7
+1,Incast bursts,GRU-only,1068.2
+2,Incast bursts,GRU-only,1177.6
+3,Incast bursts,GRU-only,1287.0
+4,Incast bursts,GRU-only,1396.4
+5,Incast bursts,GRU-only,1505.8
+1,Incast bursts,Hybrid threshold,906.5
+2,Incast bursts,Hybrid threshold,1012.7
+3,Incast bursts,Hybrid threshold,1119.0
+4,Incast bursts,Hybrid threshold,1225.3
+5,Incast bursts,Hybrid threshold,1331.5
+1,Incast bursts,RankGuard,695.9
+2,Incast bursts,RankGuard,784.5
+3,Incast bursts,RankGuard,873.0
+4,Incast bursts,RankGuard,961.5
+5,Incast bursts,RankGuard,1050.1
+1,Congestion migration,ECMP,1456.7
+2,Congestion migration,ECMP,1586.3
+3,Congestion migration,ECMP,1716.0
+4,Congestion migration,ECMP,1845.7
+5,Congestion migration,ECMP,1975.3
+1,Congestion migration,Reactive,1217.9
+2,Congestion migration,Reactive,1339.9
+3,Congestion migration,Reactive,1462.0
+4,Congestion migration,Reactive,1584.1
+5,Congestion migration,Reactive,1706.1
+1,Congestion migration,GRU-only,980.2
+2,Congestion migration,GRU-only,1087.1
+3,Congestion migration,GRU-only,1194.0
+4,Congestion migration,GRU-only,1300.9
+5,Congestion migration,GRU-only,1407.8
+1,Congestion migration,Hybrid threshold,810.6
+2,Congestion migration,Hybrid threshold,899.8
+3,Congestion migration,Hybrid threshold,989.0
+4,Congestion migration,Hybrid threshold,1078.2
+5,Congestion migration,Hybrid threshold,1167.4
+1,Congestion migration,RankGuard,613.7
+2,Congestion migration,RankGuard,690.8
+3,Congestion migration,RankGuard,768.0
+4,Congestion migration,RankGuard,845.2
+5,Congestion migration,RankGuard,922.3
+1,All-to-all exchange,ECMP,1025.1
+2,All-to-all exchange,ECMP,1106.0
+3,All-to-all exchange,ECMP,1187.0
+4,All-to-all exchange,ECMP,1268.0
+5,All-to-all exchange,ECMP,1348.9
+1,All-to-all exchange,Reactive,869.2
+2,All-to-all exchange,Reactive,957.1
+3,All-to-all exchange,Reactive,1045.0
+4,All-to-all exchange,Reactive,1132.9
+5,All-to-all exchange,Reactive,1220.8
+1,All-to-all exchange,GRU-only,750.3
+2,All-to-all exchange,GRU-only,821.2
+3,All-to-all exchange,GRU-only,892.0
+4,All-to-all exchange,GRU-only,962.8
+5,All-to-all exchange,GRU-only,1033.7
+1,All-to-all exchange,Hybrid threshold,675.3
+2,All-to-all exchange,Hybrid threshold,736.7
+3,All-to-all exchange,Hybrid threshold,798.0
+4,All-to-all exchange,Hybrid threshold,859.3
+5,All-to-all exchange,Hybrid threshold,920.7
+1,All-to-all exchange,RankGuard,606.2
+2,All-to-all exchange,RankGuard,670.1
+3,All-to-all exchange,RankGuard,734.0
+4,All-to-all exchange,RankGuard,797.9
+5,All-to-all exchange,RankGuard,861.8

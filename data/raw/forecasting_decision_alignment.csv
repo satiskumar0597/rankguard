@@ -1,0 +1,26 @@
+seed,model,coverage_pct,mae_pp,rmse_pp,mape_pct,action_rank_agreement_pct
+1,Holt-Winters,,7.01,9.46,11.2,65.99
+2,Holt-Winters,,7.46,10.03,12.15,68.4
+3,Holt-Winters,,7.9,10.6,13.1,70.8
+4,Holt-Winters,,8.34,11.17,14.05,73.2
+5,Holt-Winters,,8.79,11.74,15.0,75.61
+1,GRU,,5.46,7.74,9.18,71.6
+2,GRU,,6.03,8.37,9.94,73.75
+3,GRU,,6.6,9.0,10.7,75.9
+4,GRU,,7.17,9.63,11.46,78.05
+5,GRU,,7.74,10.26,12.22,80.2
+1,HW-GRU residual,,4.09,5.89,7.14,78.71
+2,HW-GRU residual,,4.59,6.39,7.77,80.6
+3,HW-GRU residual,,5.1,6.9,8.4,82.5
+4,HW-GRU residual,,5.61,7.41,9.03,84.4
+5,HW-GRU residual,,6.11,7.91,9.66,86.29
+1,Regime-adaptive experts,,3.64,5.21,6.19,82.98
+2,Regime-adaptive experts,,4.02,5.66,6.69,84.69
+3,Regime-adaptive experts,,4.4,6.1,7.2,86.4
+4,Regime-adaptive experts,,4.78,6.54,7.71,88.11
+5,Regime-adaptive experts,,5.16,6.99,8.21,89.82
+1,RankGuard predictor,87.06,3.31,4.86,5.51,86.81
+2,RankGuard predictor,88.83,3.76,5.43,6.2,88.46
+3,RankGuard predictor,90.6,4.2,6.0,6.9,90.1
+4,RankGuard predictor,92.37,4.64,6.57,7.6,91.74
+5,RankGuard predictor,94.14,5.09,7.14,8.29,93.39

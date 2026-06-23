@@ -1,0 +1,7 @@
+loss_pct,ema_fidelity_pct,neighbour_aware_fidelity_pct,interval_coverage_pct
+0,99.0,99.4,91.2
+5,98.2,98.8,90.9
+10,96.8,97.5,90.4
+15,94.5,96.0,89.7
+20,91.5,93.5,88.4
+30,87.8,90.8,86.8

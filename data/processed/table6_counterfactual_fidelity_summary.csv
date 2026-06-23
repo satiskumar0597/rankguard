@@ -1,0 +1,5 @@
+outcome,mean_error,p95_error_or_agreement
+p99 FCT after candidate reroute,9.8±2.1% MAPE,17.6% p95 absolute percentage error
+Maximum link utilization,0.041±0.009 absolute error,0.084 p95 absolute error
+Mean queue occupancy,13.5±3.4% MAPE,24.2% p95 absolute percentage error
+Candidate-action ranking,0.79±0.06 Spearman rho,78.4±5.7% top-1 agreement
