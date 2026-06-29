@@ -300,7 +300,3 @@ If you use this code, please cite:
 ```
 
 ---
-
-## License
-
-Add your preferred license here before making the repository public.
