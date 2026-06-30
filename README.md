@@ -20,7 +20,7 @@ The framework combines:
 - Counterfactual route evaluation
 - Telemetry-loss repair and robustness testing
 
-This repository contains the source code, scripts, configuration files, benchmark datasets, synthetic trace-driven data, and plotting utilities used to reproduce the paper results.
+This repository contains the source code, scripts, configuration files, benchmark datasets, trace-driven data, and plotting utilities used to reproduce the paper results.
 
 ---
 
@@ -67,7 +67,7 @@ rankguard/
 ├── data/
 │   ├── raw/                             Seed-level CSV files used for manuscript tables
 │   ├── processed/                       Generated summary files
-│   └── traces/                          Synthetic trace-driven utilization traces
+│   └── traces/                          Trace-driven utilization traces
 ├── figures/                             Generated manuscript figures
 ├── DATA_DICTIONARY.md                   Description of dataset fields
 ├── requirements.txt                     Python dependencies
@@ -78,11 +78,11 @@ rankguard/
 
 ## Data and Reproducibility Scope
 
-The `data/` directory contains the seed-level CSV files and synthetic trace-driven utilization traces used to reproduce the manuscript tables and plots.
+The `data/` directory contains the seed-level CSV files and trace-driven utilization traces used to reproduce the manuscript tables and plots.
 
 Important scope note:
 
-- The released data are **controlled synthetic / trace-driven benchmark data**.
+- The released data are **controlled trace-driven benchmark data**.
 - They are intended for reproducibility of the submitted tables and figures.
 - They are **not production data-centre traces**.
 - They are **not raw packet-level ONOS/Mininet packet captures**.
